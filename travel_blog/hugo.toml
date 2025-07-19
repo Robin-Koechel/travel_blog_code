@@ -1,0 +1,7 @@
+baseURL = 'https://robin-koechel.github.io/'
+languageCode = 'en-us'
+title = 'Mein Reise Blog'
+
+theme="hugo-blog-awesome"
+[params]
+    goToTop = true

@@ -1,0 +1,4 @@
+[submodule "travel_blog/public"]
+	path = travel_blog/public
+	url = https://github.com/Robin-Koechel/Robin-Koechel.github.io.git
+	branch = main
