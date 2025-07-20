@@ -34,7 +34,7 @@ Nach vier Tagen in Tokio muss ich mich von der Reizüberflutung erst einmal erho
 4. [Unterkunft in Kiso (27.08 - 28.08)](https://www.airbnb.de/rooms/1386507215290074506?guests=1&adults=1&s=67&unique_share_id=025e3956-502f-45f9-b921-80ab721c4b2e)
 
 Besonders freue ich mich auf die Wanderung auf dem historischen Nakasendo-Pfad. Die Städte entlang des Pfades sollen zum Großteil ihre traditionelle Architektur behalten haben und auch die Natur soll eine schöne Atmosphäre bieten.
-<iframe src="https://www.komoot.com/de-de/tour/2236243252/embed?share_token=aJCwNIRN7y7orN33NlRwYOmVZmplup9wIHZ2MchT0d65fmvXvf&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+<a href="https://www.komoot.com/de-de/tour/2236243252?share_token=aJCwNIRN7y7orN33NlRwYOmVZmplup9wIHZ2MchT0d65fmvXvf&ref=profile" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.komoot.com/de-de/tour/2236243252/embed?share_token=aJCwNIRN7y7orN33NlRwYOmVZmplup9wIHZ2MchT0d65fmvXvf&image=1&hm=true&profile=1&width=640&height=700" width="640" height="700"/></a>
 
 # Kyoto, Osaka & Kobe (01.09 - 07.09)
 **Unterkunft**: [Unterkunft in Kyoto](https://www.airbnb.de/rooms/50293998)
@@ -51,7 +51,7 @@ Nach einer weiteren Woche Städtebesichtigungen wird es Zeit für ein bisschen E
 
 Ich werde die Kumano Kodo Wanderung nur machen, wenn mir die Nakasendo-Wanderung gut gefallen hat und meine Füße eine weitere Wanderung mitmachen :D... hier ist die Strecke. Sie ist für 4 bis 5 Tage ausgelegt.
 
-<iframe src="https://www.komoot.com/de-de/tour/2243280269/embed?share_token=aKQPSre25xxybC7CcczU2SA8ZQ3xg6MuaYZx2XeGml2GqO7naa&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+<a href="https://www.komoot.com/de-de/tour/2243280269?share_token=aKQPSre25xxybC7CcczU2SA8ZQ3xg6MuaYZx2XeGml2GqO7naa&ref=profile" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.komoot.com/de-de/tour/2243280269/embed?share_token=aKQPSre25xxybC7CcczU2SA8ZQ3xg6MuaYZx2XeGml2GqO7naa&image=1&hm=true&profile=1&width=640&height=700" width="640" height="700"/></a>
 
 # Noch nichts geplant
 > Abhängig davon, ob die Kumano Kodo Wanderung stattfindet oder nicht, werde ich in diesen ein bis zwei Wochen weiter in den Norden oder Süden von Japan reisen... Wenn ich wandern gehe, habe ich noch ein paar Tage Zeit, um z.B. nach Kinosaki Onsen zu reisen, um mich ein letztes Mal zu erholen, bevor ich die Rückreise nach Deutschland antrete... Aber das ist alles noch komplett offen.
