@@ -1,7 +1,42 @@
-baseURL = 'https://robin-koechel.github.io/'
+baseURL = 'https://robin-koechel.github.io/travel/2025/'
+title = "Robin Köchel"
 languageCode = 'en-us'
-title = 'Mein Reise Blog'
+theme = "hugo-blog-awesome"
 
-theme="hugo-blog-awesome"
+# Enable emojis globally
+enableEmoji = true
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+  [[menu.main]]
+    pageRef = "/travel/2025/"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    pageRef = "posts"
+    name = "Posts"
+    url = "/travel/2025/posts/"
+    weight = 20
+
+
+
 [params]
-    goToTop = true
+  sitename = "Robin Köchel"
+  defaultColor = "dark" # set default color mode: dark or light
+  description = "Minimal blog with light and dark mode support"
+  goToTop = true
+
+[params.author]
+  avatar = "avatar.jpg" # Lege die Datei im assets-Ordner ab; das Bild sollte quadratisch sein.
+  # Hinweis: Das Bild wird nicht angezeigt, wenn die Ressource nicht gefunden wird. Es erscheint keine Fehlermeldung.
+  intro = "Robin Köchel"
+  name = "Robin Köchel"
+  description = "In diesem Blog berichte ich von meinem Urlaub in Japan. Ich werde vermutlich nicht jeden Tag einen Beitrag schreiben und auch keine langen Texte zu jeder Station verfassen. Stattdessen möchte ich hier die wichtigsten Momente und Eindrücke festhalten und mit euch teilen."
