@@ -1,4 +1,4 @@
-baseURL = 'https://robin-koechel.github.io/travel/2025/'
+baseURL = 'https://robin-koechel.github.io/'
 title = "Robin Köchel"
 languageCode = 'en-us'
 theme = "hugo-blog-awesome"
@@ -15,7 +15,7 @@ enableEmoji = true
 
 [menu]
   [[menu.main]]
-    pageRef = "/travel/2025/"
+    pageRef = "/"
     name = "Home"
     url = "/"
     weight = 10
@@ -23,7 +23,7 @@ enableEmoji = true
   [[menu.main]]
     pageRef = "posts"
     name = "Posts"
-    url = "/travel/2025/posts/"
+    url = "/posts/"
     weight = 20
 
 
